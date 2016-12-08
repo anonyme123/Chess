@@ -1,2 +1,2 @@
 # Chess
-Chess game
+A very basic chess game
